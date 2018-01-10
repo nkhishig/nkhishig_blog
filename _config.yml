@@ -1,21 +1,21 @@
 # Site Info
-title:              "The Plain"
+title:              "blog"
 description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "YOUR_NAME" # Your name here
-author_email:       hnrird@gmail.com # Your email here
+author_name:        "NOMIN" # Your name here
+author_email:       k.nomin7@gmail.com # Your email here
 author_gravatar:    ad001d78c0cb541b00b07532f48b560b # Your Gravatar md5 hash here for logo
-twitter_username:   HeiswayiNrird # Your Twitter username here
-github_username:    heiswayi # Your GitHub username here
+twitter_username:   nkhishig # Your Twitter username here
+github_username:    nkhishig # Your GitHub username here
 
 # Site Settings
-url:                https://heiswayi.nrird.com # main url
+url:                https://nkhishig.github.io # main url
 baseurl:            /the-plain # for gh-pages
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           United States/New York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
