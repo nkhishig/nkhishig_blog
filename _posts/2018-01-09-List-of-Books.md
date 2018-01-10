@@ -4,7 +4,7 @@
 2. Wandering by Hermann Hesse
 ![hh](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hh.jpg?raw=true)
 3. Demian by Hermann Hesse
-![hhd](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhd.jpeg?raw=true)
+![hhd](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhd.jpg?raw=true)
 4. The Unbearable Lightness of Being by Milen Kundera 
 ![mk](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/mk.jpg?raw=true)
 5. The Course of Love by Alain de Botton
