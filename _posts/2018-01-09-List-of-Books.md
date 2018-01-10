@@ -1,3 +1,3 @@
 # My absolute **favourites** #
-1. Brothers Karamazov
-![bk](_images/bk.jpg)
+1. Brothers Karamazov by Fyodor Dostoyevski
+![bk](images/bk.jpg)
