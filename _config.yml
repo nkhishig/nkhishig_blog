@@ -13,8 +13,8 @@ github_username:    nkhishig # Your GitHub username here
 
 # Site Settings
 url:                https://nkhishig.github.io # main url
-baseurl:             # for gh-pages
-permalink:          /posts/:title # Post permalink
+baseurl:            the-plain # for gh-pages
+permalink:          /:title # Post permalink
 timezone:           United States/New York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
