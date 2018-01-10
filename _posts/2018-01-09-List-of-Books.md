@@ -1,15 +1,15 @@
 # My absolute **favourites** #
 1. Brothers Karamazov by Fyodor Dostoyevsky
-![bk]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/bk.jpg')
+![bk]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/bk.jpg")
 2. Wandering by Hermann Hesse
-![hh]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hh.jpg')
+![hh]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hh.jpg")
 3. Demian by Hermann Hesse
-![hhd]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhd.jpeg')
+![hhd]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhd.jpeg")
 4. The Unbearable Lightness of Being by Milen Kundera 
-![mk]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/mk.jpg')
+![mk]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/mk.jpg")
 5. The Course of Love by Alain de Botton
-![ab]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/ab.jpg')
+![ab]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/ab.jpg")
 6. Kafka on the Shore by Haruki Murakami 
-![hm]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hm.jpg')
+![hm]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hm.jpg")
 7. Animal Farm by George Orwell 
-![go]('https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/go.jpg')
+![go]("https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/go.jpg")
