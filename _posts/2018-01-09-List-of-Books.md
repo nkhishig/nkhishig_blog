@@ -2,7 +2,7 @@
 1. Brothers Karamazov by Fyodor Dostoyevsky
 ![bk](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/bk.jpg?raw=true)
 2. Wandering by Hermann Hesse
-![hh](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hh.jpg?raw=true)
+![hh](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhw.jpg?raw=true)
 3. Demian by Hermann Hesse
 ![hhd](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hhd.jpg?raw=true)
 4. The Unbearable Lightness of Being by Milen Kundera 
