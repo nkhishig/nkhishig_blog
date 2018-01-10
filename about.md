@@ -3,8 +3,11 @@ layout: page
 title: About
 ---
 
-Hello.
+Ahoj, vitaj! Ako sa máš?
+Ja som Nomin a som študent inžinierstva. Mám velmi rada čítanie kníh, chôdzu v parku a písanie básní. 
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Nech sa páči.
+
+Čau!
 
 **Less is more..**
