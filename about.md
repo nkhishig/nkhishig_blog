@@ -10,4 +10,3 @@ Nech sa páči.
 
 Čau!
 
-**Less is more..**
