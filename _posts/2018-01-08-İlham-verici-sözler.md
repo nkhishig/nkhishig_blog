@@ -1,4 +1,4 @@
-## Words of Wisdom from Tea ## 
+## Words of wisdom from every corner ## 
 
 > If you do anything out of sheer compassion, you will never be wrong.
 
@@ -15,3 +15,8 @@
 > Happiness is an accomplishment. 
 
 > The trouble with resisting temptation is it may never come again.
+
+> A calm and modest life brings more happiness than the pursuit of success combined with constant restlessness - Einstein
+
+> Bottomless wonders spring from simple rules.. repeated without end - Mandelbrot
+
