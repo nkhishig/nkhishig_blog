@@ -12,7 +12,7 @@ twitter_username:   nkhishig # Your Twitter username here
 github_username:    nkhishig # Your GitHub username here
 
 # Site Settings
-url:                https://nkhishig.github.io # main url
+url:                https://heiswayi.nrird.com # main url
 baseurl:            the-plain # for gh-pages
 permalink:          /:title # Post permalink
 timezone:           United States/New York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
