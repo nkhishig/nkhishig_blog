@@ -12,4 +12,4 @@
 6. Kafka on the Shore by Haruki Murakami 
 ![hm](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/hm.jpg?raw=true)
 7. Animal Farm by George Orwell 
-![go](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/go.jpg?raw=true)
+![go](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/go1.jpg?raw=true)
