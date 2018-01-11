@@ -57,12 +57,15 @@ Here is the main code for calculating the  vertical position and the velocity of
 ![code](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/code.jpg?raw=true)
 
 We can plot each of them using the lists we created. Here is the vertical position, y vs time.  
+
 ![y](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/y.jpg?raw=true)
 
 Here is the velocity, $$v_{y}$$ vs time. 
+
 ![v](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/v.jpg?raw=true)
 
 Lastly, here is the plot of angular velocity $$\omega$$ vs time. 
+
 ![w](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/omega.jpg?raw=true)
 
 ## Calculating energy and checking its conservation 
@@ -73,9 +76,11 @@ E_{total}=mgy+\frac{1}{2}mv^2+\frac{1}{2}I\omega^2
 \end{equation}
 where potential energy, kinetic energy and rotational kinetic energy contribute. 
 Here is a plot that shows how each energy changes with time.  
+
 ![all](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/all2.jpg?raw=true)
 
 And if we add them all up, we see that the total energy is conserved. 
+
 ![total](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/totalE.jpg?raw=true)
 
 
