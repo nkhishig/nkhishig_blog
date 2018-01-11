@@ -41,7 +41,7 @@ j=-\frac{\left(1+e\right)\left(v_{y}+\omega r_{x}\right)}{I_{a}+m_ar_{x}^2}I_{a}
 \end{equation}
 and the final expression of the vertical velocity of the center of mass of the body becomes 
 \begin{equation}
-V_{af}=v_{ai}-\frac{\left(1+e\right)\left(w^2+h^2\right)\left(v_{y}+\omega r_{x}\right)}{\left(w^2+h^2+12r_{x}^2\right)}
+v_{af}=v_{ai}-\frac{\left(1+e\right)\left(w^2+h^2\right)\left(v_{y}+\omega r_{x}\right)}{\left(w^2+h^2+12r_{x}^2\right)}
 \end{equation}
 and the angular velocity of the body is 
 \begin{equation}
