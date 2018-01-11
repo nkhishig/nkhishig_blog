@@ -68,7 +68,7 @@ Lastly, here is the plot of angular velocity $$\omega$$ vs time.
 
 ![w](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/omega.jpg?raw=true)
 
-## Calculating energy and checking its conservation 
+## Energy conservation 
 We have a solution, but is it correct? In order to check it's validity, we can determine whether or not the total energy of the system is conserved. 
 The total energy is determined by
 \begin{equation}
