@@ -23,6 +23,9 @@ Since the second rigid body is the ground, the impulse parameter j was simplifie
 j=-\frac{(e+1) \vec{v_{\text{ap}}}\cdot \vec{n} }{\frac{\left(\vec{r}\times \vec{n}\right){}^2}{I_a}+\frac{1}{m_a}}
 \end{equation}
 where e is the elasticity of the collision, $$\vec{v_{\text{ap}}}$$ is the initial velocity of the impact point on the rigid body before collision. 
+
+![di](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/Untitled%20Diagram.jpg?raw=true)
+
 With
 \begin{equation}
 \vec{v_{\text{ap}}} = \vec{v_{ai}}+\omega_{ai}\times\vec{r}
