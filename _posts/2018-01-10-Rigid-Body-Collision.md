@@ -72,7 +72,7 @@ E_{total}=mgy+\frac{1}{2}mv^2+\frac{1}{2}I\omega^2
 \end{equation}
 where potential energy, kinetic energy and rotational kinetic energy contribute. 
 Here is a plot that shows how each energy changes with time.  
-![all](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/all1.jpg?raw=true)
+![all](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/all2.jpg?raw=true)
 
 And if we add them all up, we see that the total energy is conserved. 
 ![total](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/totalE.jpg?raw=true)
