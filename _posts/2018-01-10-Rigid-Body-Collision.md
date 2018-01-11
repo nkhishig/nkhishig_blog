@@ -51,10 +51,59 @@ Here $$V_{y}$$ is the vertical velocity component of $$V_{ai}$$.
 Note there is no change introduced in the horizontal velocity component after collision since the impulse is only present in $$\hat{y}$$ and therefore is negligible in the simulation. 
 
 ## Coding the motion
-Verlet integration method was used to model the motion of the rigid body in order to make it easier for introducing new parameters and modifications. 
+Verlet integration method was used to model the motion of the rigid body in order to make it easier for adding new parameters and modifications. 
 
+```Mathematica
+Module[{a = 2, b = 2, yi = 10, 
+  vi = 0, \[Delta]t = 0.01, \[Theta]i = 30/180 \[Pi], e = 1},
+ Subscript[\[Omega], 1] = 0;
+ Subscript[\[Omega], 2] = 0;
+ Subscript[y, 1] = yi;
+ Subscript[v, 1] = vi;
+ Subscript[v, 2] = 0;
+ Subscript[\[Theta], 1] = \[Theta]i;
+ For[t = 0, t < 10, t += \[Delta]t,
+  {AppendTo[list2, Subscript[y, 1]], 
+   AppendTo[list3, Subscript[\[Theta], 1]], 
+   AppendTo[list4, Subscript[\[Omega], 1]], 
+   AppendTo[list5, Subscript[v, 1]],
+   Subscript[\[Theta], 1] = 
+    Subscript[\[Theta], 1] + Subscript[\[Omega], 1] \[Delta]t,
+   Subscript[y, 1] = 
+    Subscript[y, 1] + Subscript[v, 1] \[Delta]t - 4.9 \[Delta]t^2,
+   Subscript[v, 1] = Subscript[v, 1] - 9.8 \[Delta]t,
+   Subscript[y, 2] = 
+    Subscript[y, 1] + Subscript[v, 1] \[Delta]t - 4.9 \[Delta]t^2,
+   If[Subscript[y, 2] + 
+      Subscript[r, y][n[Subscript[\[Theta], 1]], Subscript[\[Theta], 
+       1]] < 0, 
+    {Subscript[y, 
+      1] == -Subscript[r, y][n[Subscript[\[Theta], 1]], 
+        Subscript[\[Theta], 1]],
+     Subscript[\[Omega], 2] = 
+      Subscript[\[Omega], 1] - 
+       12 Subscript[r, x][n[Subscript[\[Theta], 1]], 
+         Subscript[\[Theta], 
+         1]] (2) (Subscript[v, 1] + 
+           Subscript[\[Omega], 1]*
+            Subscript[r, x][n[Subscript[\[Theta], 1]], 
+             Subscript[\[Theta], 1]])/(a^2 + b^2 + 
+           12 (Subscript[r, x][n[Subscript[\[Theta], 1]], 
+              Subscript[\[Theta], 1]])^2),
+     Subscript[v, 2] = 
+      Subscript[v, 
+       1] - ((a^2 + b^2) (2) (Subscript[v, 1] + 
+            Subscript[\[Omega], 1]*
+             Subscript[r, x][n[Subscript[\[Theta], 1]], 
+              Subscript[\[Theta], 1]]))/(a^2 + b^2 + 
+          12 (Subscript[r, x][n[Subscript[\[Theta], 1]], 
+             Subscript[\[Theta], 1]])^2),
+     Subscript[\[Omega], 1] = Subscript[\[Omega], 2],
+     Subscript[v, 1] = Subscript[v, 2]
+     }]}]]
+```
 
-## Calculating energy and checking its conservation
+## Calculating energy and checking its conservation 
 
 
 
