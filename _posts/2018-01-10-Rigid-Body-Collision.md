@@ -85,5 +85,5 @@ And if we add them all up, we see that the total energy is conserved.
 
 ## Tada!
 
-![Alt Text](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/fig.gif)
+![Alt Text](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/another.gif)
 
