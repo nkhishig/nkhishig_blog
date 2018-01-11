@@ -56,7 +56,6 @@ Verlet integration method was used to model the motion of the rigid body in orde
 <math xmlns='http://www.w3.org/1998/Math/MathML'
     mathematica:form='StandardForm'
     xmlns:mathematica='http://www.wolfram.com/XML/'>
-```
 <mrow>
   <mi>Module</mi>
   <mo>[</mo>
@@ -792,7 +791,7 @@ Verlet integration method was used to model the motion of the rigid body in orde
   <mo>]</mo>
  </mrow>
 </math>
-```
+
 
 ## Calculating energy and checking its conservation 
 
