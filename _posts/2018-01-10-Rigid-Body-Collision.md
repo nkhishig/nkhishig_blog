@@ -53,7 +53,7 @@ Note there is no change introduced in the horizontal velocity component after co
 ## Coding the motion
 Verlet integration method was used to model the motion of the rigid body in order to make it easier for adding new parameters and modifications. 
 Here is the main code for calculating the  vertical position and the velocity of the rigid body's center of mass and its angular velocity at $$\delta t$$ and appending each to seperate lists. 
-![code](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/code2.jpg?raw=true)
+![code](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/code.jpg?raw=true)
 
 We can plot each of them using the lists we created. Here is the vertical position, y vs time.  
 ![y](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/y.jpg?raw=true)
