@@ -59,7 +59,10 @@ Here is the main code for calculating the  vertical position and the velocity of
 
 ![code](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/code.jpg?raw=true)
 
-In this simulation, the initial height the rigid body drops from is set to 10m and the initial tilt angle is 30 degrees. Note the initial velocity and angular velocity is zero. 
+In this simulation, the initial height the rigid body drops from is set to 10m and the initial tilt angle is 30 degrees. Note the initial velocity and angular velocity is zero. The shape of the rigid body is square with dimensions of w=2 and h=2. 
+
+![rb](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/gf.jpg?raw=true)
+
 
 After running the code, we can plot the position and velocities using the lists we created. Here is the vertical position, y vs time.  
 
