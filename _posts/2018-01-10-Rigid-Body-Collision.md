@@ -84,6 +84,6 @@ And if we add them all up, we see that the total energy is conserved.
 ![total](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/totalE.jpg?raw=true)
 
 ## Tada!
-
+(trying to add the animation with GIF but not working so far, will try to find a way. Works on my markdown file though.)
 ![alt text](https://github.com/nkhishig/nkhishig.github.io/blob/master/_posts/images/another.gif)
 
