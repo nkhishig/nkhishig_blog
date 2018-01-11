@@ -17,8 +17,8 @@ To simulate a simple collision of a rigid body to the ground, we allow the secon
 \begin{equation}
 \omega_{af} = \omega_{ai}+\frac{\left(\vec{r}\times j\vec{n}\right)}{I_{a}}
 \end{equation} 
-where r is the distance vector from the center of mass of the rigid body to the collision point and $$I_{a}$$ is the moment of inertia of the body. 
-Since the second rigid body is the ground, the impulse parameter j was simplified to be 
+where r is the distance vector from the center of mass of the rigid body to the impact point and $$I_{a}$$ is the moment of inertia of the body. 
+Since the second rigid body is the ground, the impulse parameter j is simplified: 
 \begin{equation}
 j=-\frac{(e+1) \vec{v_{\text{ap}}}\cdot \vec{n} }{\frac{\left(\vec{r}\times \vec{n}\right){}^2}{I_a}+\frac{1}{m_a}}
 \end{equation}
@@ -38,15 +38,15 @@ and the direction perpendicular to the ground equal to,
 \begin{equation}
 \vec{n}=\hat{y}
 \end{equation}
-evaluating the impulse parameter j  
+evaluating the impulse parameter j results in
 \begin{equation}
 j=-\frac{\left(1+e\right)\left(v_{y}+\omega r_{x}\right)}{I_{a}+m_ar_{x}^2}I_{a}
 \end{equation}
-and the final expression of the vertical velocity of the center of mass of the body becomes 
+and the final expression for the vertical velocity becomes 
 \begin{equation}
-v_{af}=v_{ai}-\frac{\left(1+e\right)\left(w^2+h^2\right)\left(v_{y}+\omega r_{x}\right)}{\left(w^2+h^2+12r_{x}^2\right)}
+v_{af}=v_{y}-\frac{\left(1+e\right)\left(w^2+h^2\right)\left(v_{y}+\omega r_{x}\right)}{\left(w^2+h^2+12r_{x}^2\right)}
 \end{equation}
-and the angular velocity of the body is 
+and the angular velocity is 
 \begin{equation}
 \omega_{af}=\omega_{ai}-\frac{12r_{x}\left(1+e\right)\left(v_{y}+\omega r_{x}\right)}{\left(w^2+h^2+12r_{x}^2\right)}
 \end{equation}
