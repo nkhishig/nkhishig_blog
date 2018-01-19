@@ -21,3 +21,5 @@
 > Bottomless wonders spring from simple rules.. repeated without end - Mandelbrot
 
 > There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self - Hemingway
+
+> The purpose of life is to know yourself and love yourself and trust yourself and be yourself. 
