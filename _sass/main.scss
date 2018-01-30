@@ -117,7 +117,7 @@ blockquote {
   }
 }
 iframe {
-  margin: 45px 0 !important;
+  margin: 15px 0 !important;
 }
 ul,
 ol {
@@ -225,7 +225,7 @@ article {
   }
   .footnotes {
     margin: 50px auto;
-    display: block;
+    display: inline-block;
     p {
       line-height: 1rem;
       font-weight: normal;
