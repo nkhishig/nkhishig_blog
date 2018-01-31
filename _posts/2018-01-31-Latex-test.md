@@ -16,8 +16,11 @@ Differentiating $$\dot{Q}$$,
 \end{equation}
 
 \begin{equation}
-Q^{T}\ddot{Q} = \Omega_{0}^2 +\dot{\Omega}_{0}  \rightarrow
-P =  \Omega_{0}^2 + \dot{\Omega}_{0}
+Q^{T} \ddot{Q} = \Omega_{0}^2 +\dot{\Omega}_{0}
+\end{equation}
+equals 
+\begin{equation}
+P = \Omega_{0}^2 + \dot{\Omega}_{0}
 \end{equation}
 
 We showed previously that
