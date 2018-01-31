@@ -5,7 +5,7 @@ Rearranging gives
 \begin{equation}
 \dot{Q} = Q\Omega_{0}
 \end{equation}
-Differentiating \(\dot{Q}\),
+Differentiating $$\dot{Q}$$,
 \begin{equation}
 \ddot{Q} = \dot{Q}\Omega_{0} + Q\dot{\Omega}_{0} 
 \end{equation}
