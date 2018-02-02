@@ -10,7 +10,7 @@ Rearranging gives
 Differentiating $$\dot{\boldsymbol{Q}}$$,
 
 \begin{equation}
-\ddot{\boldsymbol{Q}} = \dot{\boldsymbol{Q}}\boldsymbol{\Omega}_{0} + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_{0} 
+\ddot{\boldsymbol{Q}} = \dot{\boldsymbol{Q}}\boldsymbol{\Omega}_0 + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_0 
 \end{equation}
 
 \begin{equation}
