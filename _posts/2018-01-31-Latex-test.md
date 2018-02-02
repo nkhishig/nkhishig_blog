@@ -24,7 +24,7 @@ Differentiating $$\dot{\boldsymbol{Q}}$$,
 equals
 
 \begin{equation}
-P = \boldsymbol{\Omega_{0}}^2 + \dot{\boldsymbol{\Omega}}_{0}
+P = \boldsymbol{\Omega}_{0}^2 + \dot{\boldsymbol{\Omega}}_{0}
 \end{equation}
 
 We showed previously that
