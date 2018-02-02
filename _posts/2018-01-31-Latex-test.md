@@ -47,6 +47,6 @@ Now that
 \end{equation}
 
 Integrating both sides will result in
-\begin{equation}
+$$
 \boldsymbol{\Omega}_{0}\left(t\right)=\int_{z=0}^{t}\textsf{skew}(P)(z)dz, + \boldsymbol{\Omega}_{0}\left(0\right)
-\end{equation}
+$$
