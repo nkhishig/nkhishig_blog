@@ -1,18 +1,18 @@
 \begin{equation}
-\Omega_{0}= Q^{T}\dot{Q}
+\boldsymbol{\Omega}_{0}= \boldsymbol{Q}^{\textsf{T}}\dot{\boldsymbol{Q}}
 \end{equation}
 Rearranging gives 
 \begin{equation}
-\dot{Q} = Q\Omega_{0}
+\dot{\boldsymbol{Q}} = \boldsymbol{Q}\boldsymbol{\Omega}_{0}
 \end{equation}
-Differentiating $$\dot{Q}$$,
+Differentiating $$\dot{\boldsymbol{Q}}$$,
 
 \begin{equation}
-\ddot{Q} = \dot{Q}\Omega_{0} + Q\dot{\Omega}_{0} 
+\ddot{\boldsymbol{Q}} = \dot{\boldsymbol{Q}}\boldsymbol{\Omega}_{0} + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_{0} 
 \end{equation}
 
 \begin{equation}
-\ddot{Q} = Q\Omega_{0}^2 + Q\dot{\Omega_{0}} =Q\left(\Omega_{0}^2 + \dot{\Omega}_{0} \right)
+\ddot{\boldsymbol{Q}} = \boldsymbol{Q}\boldsymbol{\Omega}_{0}^2 + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_{0} =\boldsymbol{Q}\left(\Omega_{0}^2 + \dot{\Omega}_{0} \right)
 \end{equation}
 
 \begin{equation}
