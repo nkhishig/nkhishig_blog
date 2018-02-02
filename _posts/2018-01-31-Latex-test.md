@@ -12,39 +12,39 @@ Differentiating $$\dot{\boldsymbol{Q}}$$,
 \end{equation}
 
 \begin{equation}
-\ddot{\boldsymbol{Q}} = \boldsymbol{Q}\boldsymbol{\Omega}_{0}^2 + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_{0} =\boldsymbol{Q}\left(\Omega_{0}^2 + \dot{\Omega}_{0} \right)
+\ddot{\boldsymbol{Q}} = \boldsymbol{Q}\boldsymbol{\Omega}_{0}^2 + \boldsymbol{Q}\dot{\boldsymbol{\Omega}}_{0} =\boldsymbol{Q}\left(\boldsymbol{\Omega}_{0}^2 + \dot{\boldsymbol{\Omega}}_{0} \right)
 \end{equation}
 
 \begin{equation}
-Q^{T}\ddot{Q} = \Omega_{0}^2 +\dot{\Omega}_{0}
+\boldsymbol{Q}^{\textsf{T}}\ddot{\boldsymbol{Q}} = \boldsymbol{\Omega}_{0}^2 +\dot{\boldsymbol{\Omega}}_{0}
 \end{equation}
 
 equals
 
 \begin{equation}
-P = \Omega_{0}^2 + \dot{\Omega}_{0}
+P = \boldsymbol{\Omega_{0}}^2 + \dot{\boldsymbol{\Omega}}_{0}
 \end{equation}
 
 We showed previously that
 \begin{equation}
-Sym(P) = \Omega_{0}^2
+\textsf{sym}(P) = \boldsymbol{\Omega}_{0}^2
 \end{equation}
 so substituting that into Eq.5, we get
 \begin{equation}
-P=Sym(P) +\dot{\Omega}_{0}
+P=\textsf{sym}(P) +\dot{\boldsymbol{\Omega}}_{0}
 \end{equation}
 
 \begin{equation}
-\dot{\Omega}_{0} = P-Sym(P) = P- \left(\frac{P+P^{T}}{2}\right) =  \left(\frac{P-P^{T}}{2}\right) = Skew(P)
+\dot{\boldsymbol{\Omega}}_{0} = P-\textsf{sym}(P) = P- \left(\frac{P+P^{\textsf{T}}}{2}\right) =  \left(\frac{P-P^{\textsf{T}}}{2}\right) = \textsf{skew}(P)
 \end{equation}
 
-where Skew(P) is the skew-symmetric tensor of P. 
+where \textsf{skew}(P) is the skew-symmetric tensor of P. 
 Now that 
 \begin{equation}
-\dot{\Omega}_{0} = Skew(P)
+\dot{\boldsymbol{\Omega}}_{0} = \textsf{skew}(P)
 \end{equation}
 
 Integrating both sides will result in
 \begin{equation}
-\Omega_{0}\left(t\right)=\int_{z=0}^{t}Skew(P)(z)dz + \Omega_{0}\left(0\right)
+\boldsymbol{\Omega}_{0}\left(t\right)=\int_{z=0}^{t}\textsf{skew}(P)(z)dz, + \boldsymbol{\Omega}_{0}\left(0\right)
 \end{equation}
