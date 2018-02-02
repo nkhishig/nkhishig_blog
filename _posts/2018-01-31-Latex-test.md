@@ -1,7 +1,9 @@
 \begin{equation}
 \boldsymbol{\Omega}_{0}= \boldsymbol{Q}^{\textsf{T}}\dot{\boldsymbol{Q}}
 \end{equation}
+
 Rearranging gives 
+
 \begin{equation}
 \dot{\boldsymbol{Q}} = \boldsymbol{Q}\boldsymbol{\Omega}_{0}
 \end{equation}
