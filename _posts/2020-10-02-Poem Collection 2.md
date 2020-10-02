@@ -1,5 +1,6 @@
 milá [^1]		
-                                                               _dedicated to you, teta, if only I could see you again_
+
+							_dedicated to you, teta, if only I could see you again_
 
 I saw a cane 
 a ballast for her wobbly knees
@@ -48,8 +49,8 @@ here
 
 Purple hyacinth [^2]
 
-         _Come stand before me, child_
-         _Whisper unto me your sins and repent_  
+         _Come stand before me, child 
+	  Whisper unto me your sins and repent_  
 
 a figure from 		eons ago,
 a time of innocence &
