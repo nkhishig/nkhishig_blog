@@ -1,7 +1,7 @@
-<pre> 
+
 milá [^1]
 
-			_dedicated to you, teta, if only I could see you again_
+&emsp;	&emsp;	&emsp;  _dedicated to you, teta, if only I could see you again_
 
 I saw a cane 
 a ballast for her wobbly knees
@@ -29,14 +29,14 @@ only to feel your warmth in a
 cosmic bubble, burst  
 into tears, a sunshower -- 
 
-I have always been here
+&emsp; _I have always been here_
 
 leaves weaving, a blanket to the core
 soft like your caress, a kiss to
 my forehead, my hands 
 reaching out to   
 
-milá, I am you and you are me 
+&emsp; milá, _I am you and you are me_ 
 
 love emanates like a lullaby
 from a trinket you held 
@@ -50,43 +50,43 @@ here
 
 Purple hyacinth [^2]
 
-          _Come stand before me, child 
-	  Whisper unto me your sins and repent_  
+&emsp;  &emsp;        _Come stand before me, child 
+&emsp;	&emsp;       Whisper unto me your sins and repent_  
 
-a figure from 		eons ago,
-a time of innocence &
-illusion, 	looms before me 
-small and still, 	asking me 
+a figure from 	&emsp;	eons ago, 
+a time of innocence & 
+illusion, &emsp; looms before me 
+small and still, &emsp; asking me 
 to pour out once more 
-what was lost, 			a love  
+what was lost, 	 &emsp; &emsp;	a love  
 
-                _inaction was my sin_  
-                _ingratitude rips 	 the flesh_ 
+&emsp; &emsp;               _inaction was my sin_  
+&emsp; &emsp;               _ingratitude rips 	 the flesh_ 
 
-golden light 	      was he 
-gentle wind         a gentler soul 
-holding out his everything 	to 
-me, a naive trust 	      	in love 
+golden light  &emsp; was he 
+gentle wind   &emsp;  a gentler soul 
+holding out his everything  &emsp;to 
+me, a naive trust  &emsp;  &emsp; in love 
 
-                 _What is love to you, little one_
-                 _Show me you have learned_ 
+ &emsp;  &emsp;                _What is love to you, little one_
+ &emsp;  &emsp;               _Show me you have learned_ 
   
-left you stranded	      	at night 
-a promise unfulfilled 	  empty words 
-a paper plane   	flew 	
-                                 carrying whispers
-                                                      of longing 
+left you stranded &emsp; &emsp; at night 
+a promise unfulfilled 	 &emsp;  empty words 
+a paper plane    &emsp;	flew 	
+&emsp; &emsp; &emsp; carrying whispers
+&emsp; &emsp; &emsp; &emsp; of longing 
 unopened, a play of fate 
 selfish tricks or, 
 
-                        _self sacrifice_ 
+&emsp; &emsp; &emsp; &emsp;   _self sacrifice_ 
 
-poetry is my mnemotechnic 
+poetry is my mnemotechnic  
 let this be a record then 
 of a chance not taken 
 a pure love marred
 
-		                    _forgive me for I have sinned_ 
+&emsp; &emsp; &emsp; &emsp;  _forgive me for I have sinned_ 
 
 he appears in front 
 a cheeky grin, he wears
@@ -98,6 +98,5 @@ such a long, long time_ [^3]
 
 --- 
 
-</pre>
 
 
